@@ -1,4 +1,4 @@
-fetch('https://pythonfastapi.vercel.app/', {
+fetch('https://pythonfastapi-fawn.vercel.app/', {
     "method": "GET",
     "headers": {
         "Access-Control-Allow-Origin": "*"
